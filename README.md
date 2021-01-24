@@ -1,0 +1,2 @@
+# lamcraft
+minecraftserver
